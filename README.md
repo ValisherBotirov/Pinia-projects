@@ -14,3 +14,4 @@ npm run dev
 ```
 
 [Checkout the course!](https://vueschool.io/courses/pinia-the-enjoyable-vue-store)"# Pinia-projects" 
+"# Pinia-projects" 
